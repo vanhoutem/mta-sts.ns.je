@@ -2,10 +2,8 @@
 layout: none
 permalink: /.well-known/mta-sts.txt
 ---
-```
 version: STSv1
 mode: testing
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
 max_age: 604800
-```
