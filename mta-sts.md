@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: text
 permalink: /.well-known/mta-sts.txt
 ---
 version: STSv1
