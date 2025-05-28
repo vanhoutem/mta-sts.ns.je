@@ -1,6 +1,6 @@
 timezone: Europe/London
 theme: jekyll-theme-minimal
 url: "https://mta-sts.ns.je"
-exclude: "/.well-known/mta-sts.txt"
+exclude: "**/mta-sts.txt"
 # title: ns.je
 # description: ""
