@@ -1,6 +1,6 @@
 ---
 layout: text
-# permalink: /.well-known/mta-sts.txt
+permalink: /.well-known/mta-sts.txt
 ---
 version: STSv1
 mode: testing
